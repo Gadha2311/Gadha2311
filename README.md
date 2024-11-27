@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gadha Venu</h1>
 <h3 align="center">A Self-taught full-stack developer</h3>
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/f5/36/01/f53601133f236d1cb167ac19f05a3d60.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gadha2311&label=Profile%20views&color=0e75b6&style=flat" alt="gadha2311" /> </p>
 
